@@ -10,21 +10,19 @@ The content of this repository will be updated over time. Consider it as the fir
 
   **1. Introduction** 
 
-  **2. Machine Learning**
+  **2. Quantum Computing**
 
-  **3. Quantum Computing**
+  **3. Representing Data on a Quantum Computer**
 
-  **4. Representing Data on a Quantum Computer**
+  **4. Variational Circuits as Machine Learning Models**
 
-  **5. Variational Circuits as Machine Learning Models**
+  **5. Quantum Models as Kernel Methods**
 
-  **6. Quantum Models as Kernel Methods**
+  **6. Fault-Tolerant Quantum Machine Learning**
 
-  **7. Fault-Tolerant Quantum Machine Learning**
+  **7. Approaches Based on the Ising Model**
 
-  **8. Approaches Based on the Ising Model**
-
-  **9. Potential Quantum Advantages** 
+  **8. Potential Quantum Advantages** 
 
 ## Contribution 🤝
 Contributions to this repository from anyone willing to contribute are welcomed. If you want to add, correct, or improve content related to quantum theory, please submit a pull request.
